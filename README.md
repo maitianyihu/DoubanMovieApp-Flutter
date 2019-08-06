@@ -1,2 +1,2 @@
 # DoubanMovieApp-Flutter
-This is a practice project.
+这是一个练习项目，豆瓣api接口目前未开放，所有的数据都是通过代理接口获取的，比较高级权限接口只有商业合作才能得到，但这些基础接口用于练习足够了。
