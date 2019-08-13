@@ -32,6 +32,11 @@
         NSString *method=call.method;
         if ([method isEqualToString:@"test"]) {
          
+            NSLog(@"");
+            
+            
+            
+            
             
             StepCountViewController *vc = [[StepCountViewController alloc]init];
             [vc getStepCountWithReslut:^(NSString * _Nonnull step) {

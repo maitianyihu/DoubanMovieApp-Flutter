@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+
+
 class FuQiangPage extends StatefulWidget {
 
     @override
@@ -30,6 +32,7 @@ class FuQiangState extends State<FuQiangPage> {
   }
 
 String content = '富强';
+
 
 
 final myTabs = [Tab(text: "体育",), Tab(text: "财经",)];

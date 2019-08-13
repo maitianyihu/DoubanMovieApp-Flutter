@@ -39,16 +39,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - images/xuehua.png
-    - images/xuehua_select.png
-    - images/jinli.png
-    - images/jinli_select.png
-    - images/denglong.png
-    - images/denglong_select.png
-    - images/bianpao.png
-    - images/bianpao_select.png
-    - images/chunlian.png
-    - images/chunlian_select.png
+    - images/
   # To add assets to your application, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
